@@ -8,7 +8,7 @@
 
 ### 🎥 Video Walkthrough (Loom)
 > 📌 **[Click here to watch the demo video](#)**
-> *(Replace `#` with your Loom video URL)*
+
 
 The demo video covers:
 - Project architecture and thought process
@@ -24,8 +24,8 @@ The demo video covers:
 
 ## 🔗 Repository
 
-**GitHub:** [https://github.com/YOUR_USERNAME/rag-chatbot](#)
-*(Replace with your actual GitHub repository URL)*
+**GitHub:** [https://github.com/ayushi030709/rag-chatbot](#)
+
 
 ---
 
