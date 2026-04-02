@@ -26,7 +26,7 @@ The demo video covers:
 
 ## 🔗 Repository
 
-**GitHub:** [https://github.com/ayushi030709/rag-chatbot](#)
+**GitHub:** [https://github.com/ayushi030709/FINE_TUNED_RAG_CHATBOT](#)
 
 
 ---
