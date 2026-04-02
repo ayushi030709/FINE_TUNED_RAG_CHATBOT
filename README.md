@@ -17,8 +17,10 @@ The demo video covers:
 - How to run the project locally
 
 ### 🖼️ Chatbot Screenshot
-> *(Add a screenshot of your running chatbot here)*
+
 > `![Chatbot Screenshot](assets/screenshot.png)`
+> <img width="1903" height="1125" alt="image" src="https://github.com/user-attachments/assets/fe0e5359-282b-489b-a7b2-c9865661cc54" />
+
 
 ---
 
