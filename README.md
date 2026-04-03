@@ -22,7 +22,7 @@ The demo video covers:
 
 ###  Chatbot Screenshot
 
-> `![Chatbot Screenshot](assets/screenshot.png)`
+
 > <img width="1903" height="1125" alt="image" src="https://github.com/user-attachments/assets/fe0e5359-282b-489b-a7b2-c9865661cc54" />
 
 
@@ -246,4 +246,4 @@ It covers:
 ## 👩‍💻 Author
 
 **Ayushi**
-Junior AI Engineer Assignment — Amlgo Labs — 2026
+
