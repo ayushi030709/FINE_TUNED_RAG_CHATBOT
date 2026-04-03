@@ -7,7 +7,7 @@
 ## 📽️ Demo
 
 ### 🎥 Video Walkthrough (Loom)
-> 📌 **[Click here to watch the demo video](#)**
+> 📌 **[Click here to watch the demo video](https://drive.google.com/file/d/1y0PfbWqbvcvVb3jkIeh7PGGkzMporqfY/view?usp=sharing)**
 
 
 The demo video covers:
