@@ -1,4 +1,4 @@
-﻿# 🤖 RAG Chatbot — eBay User Agreement Q&A System
+﻿#  RAG Chatbot — eBay User Agreement Q&A System
 
 > A Retrieval-Augmented Generation (RAG) chatbot that answers questions based on the eBay User Agreement document. Built with LLaMA 3.1, FAISS vector database, and Streamlit with real-time streaming responses.
 
@@ -7,7 +7,7 @@
 ## 📽️ Demo
 
 ### 🎥 Video Walkthrough (Loom)
-> 📌 **[Click here to watch the demo video](https://drive.google.com/file/d/1y0PfbWqbvcvVb3jkIeh7PGGkzMporqfY/view?usp=sharing)**
+>  **[Click here to watch the demo video](https://drive.google.com/file/d/1y0PfbWqbvcvVb3jkIeh7PGGkzMporqfY/view?usp=sharing)**
 
 
 
@@ -20,7 +20,7 @@ The demo video covers:
 - Live chatbot with streaming responses
 - How to run the project locally
 
-### 🖼️ Chatbot Screenshot
+###  Chatbot Screenshot
 
 > `![Chatbot Screenshot](assets/screenshot.png)`
 > <img width="1903" height="1125" alt="image" src="https://github.com/user-attachments/assets/fe0e5359-282b-489b-a7b2-c9865661cc54" />
@@ -35,7 +35,7 @@ The demo video covers:
 
 ---
 
-## 🧠 Project Overview
+##  Project Overview
 
 This project implements a complete RAG (Retrieval-Augmented Generation) pipeline for question answering over a legal document. Instead of sending the entire 10,500-word eBay User Agreement to an LLM, the system retrieves only the most relevant chunks for each query and grounds the model's response in those excerpts.
 
@@ -56,7 +56,7 @@ PDF Document
 
 ---
 
-## 🗂️ Folder Structure
+##  Folder Structure
 ```
 rag-chatbot/
 ├── data/
@@ -81,7 +81,7 @@ rag-chatbot/
 
 ---
 
-## ⚙️ Tech Stack
+##  Tech Stack
 
 | Component | Tool | Reason |
 |---|---|---|
@@ -94,7 +94,7 @@ rag-chatbot/
 
 ---
 
-## 🚀 How to Run Locally
+##  How to Run Locally
 
 ### Prerequisites
 - Python 3.9 or higher
@@ -151,7 +151,7 @@ What law governs this agreement?
 
 ---
 
-## 🔍 How the RAG Pipeline Works
+##  How the RAG Pipeline Works
 
 ### 1. Document Preprocessing (`src/preprocessor.py`)
 - Extracts raw text from the PDF using PyMuPDF
@@ -186,7 +186,7 @@ What law governs this agreement?
 
 ---
 
-## 📊 Model & Embedding Choices
+##  Model & Embedding Choices
 
 ### Why `all-MiniLM-L6-v2`?
 - Specifically trained for semantic similarity tasks
@@ -208,7 +208,7 @@ What law governs this agreement?
 
 ---
 
-## 📝 Key Design Decisions
+##  Key Design Decisions
 
 **Chunk size of 200 words:** Legal documents contain complex sentences that need enough context to be meaningful. 200 words fits approximately one complete legal clause or paragraph.
 
@@ -220,7 +220,7 @@ What law governs this agreement?
 
 ---
 
-## ⚠️ Known Limitations
+##  Known Limitations
 
 - The chatbot only knows about the eBay User Agreement — not other eBay policy pages
 - Questions referencing other eBay documents will receive partial answers
