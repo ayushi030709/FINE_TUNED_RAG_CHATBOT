@@ -8,6 +8,7 @@
 
 ### 🎥 Video Walkthrough (Loom)
 > 📌 **[Click here to watch the demo video](https://drive.google.com/file/d/1y0PfbWqbvcvVb3jkIeh7PGGkzMporqfY/view?usp=sharing)**
+> **[Live demo](https://drive.google.com/file/d/1vB8Z4zxYDhkp7t2R6TWljy6IMyAGbB6U/view?usp=sharing)**
 
 
 The demo video covers:
