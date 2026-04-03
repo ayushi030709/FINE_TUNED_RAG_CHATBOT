@@ -26,6 +26,8 @@ The demo video covers:
 > <img width="1903" height="1125" alt="image" src="https://github.com/user-attachments/assets/fe0e5359-282b-489b-a7b2-c9865661cc54" />
 
 
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/65318609-a453-4135-abf2-3a1c04a13973" />
+
 ---
 
 ## 🔗 Repository
